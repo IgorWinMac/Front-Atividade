@@ -1,0 +1,169 @@
+#container{
+    width: 100%;
+}
+
+.historia{  
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 30px;
+    background-color:#87CEFA;
+    border:4px solid #999;
+}
+
+h1{
+    padding: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+.cartoes{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.formulario{
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 30px;
+    background-color: aqua;
+    border:4px solid #999;
+}
+
+.mapa{
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-top: 20px;
+    display: block;
+    padding: 50px;
+    border:4px solid #999;
+}
+
+.frases{
+    padding: 30px;
+}
+
+.lista{
+    padding: 50px;
+}
+
+.marcar{
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 30px;
+    background-color: beige;
+    border:4px solid #999;
+}
+
+.informacao{
+    padding: 90px;
+}
+
+.novidades{
+    margin-top: 30px;
+}
+
+.col-12{
+    margin-top: 20px;
+    margin-left: 90%;
+}
+
+.mensagem{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+#carousel{
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-top: 20px;
+    border:4px solid #999;
+}
+
+.informar{
+    margin-left: 45px;
+}
+
+.escolher{
+    margin-left: 45px;
+}
+
+.turno{
+    margin-left: 45px;
+}
+
+label, textarea {
+    display: block;
+}
+  
+textarea {
+    width: 770px;
+    height: 100px
+}
+
+#titulo-formulario{
+    text-align: center;
+}
+
+.formulario-contato{
+    text-align: center;
+}
+
+.container-fluid a:hover{
+    color: black;
+    font-size: 20px;
+    text-shadow: 1px 5px 10px blue;
+}
+
+.novidades{
+    text-align: center;
+}
+
+.foto1{
+    margin-top: 30px;
+    margin-left: 75px;
+    margin-right: 10px;
+    padding: 50px;
+    border:4px solid #999;
+}
+
+.foto2{
+    margin-top: 30px;
+    margin-left: 75px;
+    margin-right: 10px;
+    padding: 50px;
+    border:4px solid #999;
+}
+
+.foto3{
+    margin-top: 30px;
+    margin-left: 75px;
+    margin-right: 10px;
+    padding: 50px;
+    border:4px solid #999;
+}
+
+.foto4{
+    margin-top: 30px;
+    margin-left: 75px;
+    margin-right: 10px;
+    padding: 50px;
+    border:4px solid #999;
+}
+
+.frases_novidades{
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 30px;
+    background-color: beige;
+    border:4px solid #999;
+}
+
+
+
